@@ -23,6 +23,35 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
+### whois.com
+![Alt text](img/whois.com.png)
+
+### iplocator:
+![Alt text](img/iplocator.png)
+
+### webarchive:
+![Alt text](img/webarchive.png)
+
+### nmap:
+![Alt text](img/nmap.png)
+
+### whatweb:
+![Alt text](img/whatweb.png)
+
+### traceroute:
+![Alt text](img/traceroute.png)
+
+### ping:
+![Alt text](img/ping.png)
+
+### netcat:
+![Alt text](img/netcat.png)
+
+### UDP traceroute:
+![Alt text](<img/UDP traceroute.png>)
+
+### ICMP traceroute:
+![Alt text](<img/ICMP traceroute.png>)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
